@@ -1,0 +1,3 @@
+[0409/235418.877:ERROR:process_reader_win.cc(127)] NtOpenThread: {Accesso negato} Un processo ha richiesto di accedere ad un oggetto ma non ha ottenuto i diritti di accesso. (0xc0000022)
+[0409/235418.908:ERROR:exception_snapshot_win.cc(99)] thread ID 11308 not found in process
+[0415/112439.897:ERROR:file_io.cc(89)] ReadExactly: expected 152, observed 120
